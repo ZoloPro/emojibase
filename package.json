@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "build": "packemon build-workspace --addEngines",
+    "build": "packemon build-workspace --addEngines --hehe",
     "bump": "changeset",
     "bump:status": "changeset status",
     "pack": "packemon pack-workspace --addEngines --declaration",
